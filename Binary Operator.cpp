@@ -5,7 +5,7 @@ using namespace std;
 
 int main ()
 {
-    int a = 8, b = 3; 
+    int a = 20, b = 10; 
     // Aditional Operator
     cout<<"a + b ="<<" "<<(a+b)<<endl;
 
